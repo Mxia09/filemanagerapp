@@ -1,0 +1,54 @@
+﻿@page
+@model FileManagerApp.Pages.UploadedFiles.CreateModel
+
+        @{
+        ViewData["Title"] = "Create";
+        }
+        
+        <h1>Create</h1>
+        
+    <h4>UploadedFile</h4>
+    <hr />
+    <div class="row">
+    <div class="col-md-4">
+    <form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="UploadedFile.FileName" class="control-label"></label>
+                <input asp-for="UploadedFile.FileName" class="form-control" />
+                <span asp-validation-for="UploadedFile.FileName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UploadedFile.DateCreated" class="control-label"></label>
+                <input asp-for="UploadedFile.DateCreated" class="form-control" />
+                <span asp-validation-for="UploadedFile.DateCreated" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UploadedFile.DateUpdated" class="control-label"></label>
+                <input asp-for="UploadedFile.DateUpdated" class="form-control" />
+                <span asp-validation-for="UploadedFile.DateUpdated" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UploadedFile.FileSize" class="control-label"></label>
+                <input asp-for="UploadedFile.FileSize" class="form-control" />
+                <span asp-validation-for="UploadedFile.FileSize" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UploadedFile.FilePath" class="control-label"></label>
+                <input asp-for="UploadedFile.FilePath" class="form-control" />
+                <span asp-validation-for="UploadedFile.FilePath" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|c:\\users\\stati\\source\\repos\\filemanagerapp\\filemanagerapp\\models\\uploadedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|solutionrelative:filemanagerapp\\models\\uploadedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|c:\\users\\stati\\source\\repos\\filemanagerapp\\filemanagerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|solutionrelative:filemanagerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|c:\\users\\stati\\source\\repos\\filemanagerapp\\filemanagerapp\\pages\\uploadedfiles\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|solutionrelative:filemanagerapp\\pages\\uploadedfiles\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|c:\\users\\stati\\source\\repos\\filemanagerapp\\filemanagerapp\\pages\\uploadedfiles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|solutionrelative:filemanagerapp\\pages\\uploadedfiles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Migrations\\20250205212600_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileManagerApp\\Migrations\\20250205212600_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|c:\\users\\stati\\source\\repos\\filemanagerapp\\filemanagerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|solutionrelative:filemanagerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Migrations\\20250205212454_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileManagerApp\\Migrations\\20250205212454_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|c:\\users\\stati\\source\\repos\\filemanagerapp\\filemanagerapp\\pages\\uploadedfiles\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|solutionrelative:filemanagerapp\\pages\\uploadedfiles\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|c:\\users\\stati\\source\\repos\\filemanagerapp\\filemanagerapp\\pages\\uploadedfiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|solutionrelative:filemanagerapp\\pages\\uploadedfiles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|c:\\users\\stati\\source\\repos\\filemanagerapp\\filemanagerapp\\pages\\uploadedfiles\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|solutionrelative:filemanagerapp\\pages\\uploadedfiles\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|c:\\users\\stati\\source\\repos\\filemanagerapp\\filemanagerapp\\pages\\uploadedfiles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|solutionrelative:filemanagerapp\\pages\\uploadedfiles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|c:\\users\\stati\\source\\repos\\filemanagerapp\\filemanagerapp\\pages\\uploadedfiles\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|solutionrelative:filemanagerapp\\pages\\uploadedfiles\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|c:\\users\\stati\\source\\repos\\filemanagerapp\\filemanagerapp\\pages\\uploadedfiles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|solutionrelative:filemanagerapp\\pages\\uploadedfiles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|c:\\users\\stati\\source\\repos\\filemanagerapp\\filemanagerapp\\pages\\uploadedfiles\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|solutionrelative:filemanagerapp\\pages\\uploadedfiles\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|c:\\users\\stati\\source\\repos\\filemanagerapp\\filemanagerapp\\pages\\uploadedfiles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|solutionrelative:filemanagerapp\\pages\\uploadedfiles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|c:\\users\\stati\\source\\repos\\filemanagerapp\\filemanagerapp\\data\\filemanagerappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|solutionrelative:filemanagerapp\\data\\filemanagerappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|c:\\users\\stati\\source\\repos\\filemanagerapp\\filemanagerapp\\filemanagerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3B7EACA-85A9-409C-8786-D673E38A9973}|FileManagerApp\\FileManagerApp.csproj|solutionrelative:filemanagerapp\\filemanagerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FileManagerApp\\Pages\\UploadedFiles\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Create.cshtml.cs",
+              "RelativeToolTip": "FileManagerApp\\Pages\\UploadedFiles\\Create.cshtml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAEwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:22:55.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250205212454_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Migrations\\20250205212454_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FileManagerApp\\Migrations\\20250205212454_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Migrations\\20250205212454_InitialCreate.cs",
+              "RelativeToolTip": "FileManagerApp\\Migrations\\20250205212454_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:24:54.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "FileManagerApp\\Pages\\UploadedFiles\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Edit.cshtml.cs",
+              "RelativeToolTip": "FileManagerApp\\Pages\\UploadedFiles\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:22:55.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Create.cshtml",
+              "RelativeDocumentMoniker": "FileManagerApp\\Pages\\UploadedFiles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Create.cshtml",
+              "RelativeToolTip": "FileManagerApp\\Pages\\UploadedFiles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T21:22:54.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FileManagerApp\\Pages\\UploadedFiles\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Index.cshtml.cs",
+              "RelativeToolTip": "FileManagerApp\\Pages\\UploadedFiles\\Index.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAvwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:22:56.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FileManagerApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\appsettings.json",
+              "RelativeToolTip": "FileManagerApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T21:24:01.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Program.cs",
+              "RelativeDocumentMoniker": "FileManagerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Program.cs",
+              "RelativeToolTip": "FileManagerApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:10:00.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "FileManagerApp\\Pages\\UploadedFiles\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Details.cshtml.cs",
+              "RelativeToolTip": "FileManagerApp\\Pages\\UploadedFiles\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:22:55.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FileManagerApp\\Pages\\UploadedFiles\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Delete.cshtml",
+              "RelativeToolTip": "FileManagerApp\\Pages\\UploadedFiles\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T21:22:55.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UploadedFile.cs",
+              "DocumentMoniker": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Models\\UploadedFile.cs",
+              "RelativeDocumentMoniker": "FileManagerApp\\Models\\UploadedFile.cs",
+              "ToolTip": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Models\\UploadedFile.cs",
+              "RelativeToolTip": "FileManagerApp\\Models\\UploadedFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:13:02.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Details.cshtml",
+              "RelativeDocumentMoniker": "FileManagerApp\\Pages\\UploadedFiles\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Details.cshtml",
+              "RelativeToolTip": "FileManagerApp\\Pages\\UploadedFiles\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T21:22:55.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "FileManagerApp\\Pages\\UploadedFiles\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Delete.cshtml.cs",
+              "RelativeToolTip": "FileManagerApp\\Pages\\UploadedFiles\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:22:56.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250205212600_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Migrations\\20250205212600_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FileManagerApp\\Migrations\\20250205212600_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Migrations\\20250205212600_InitialCreate.cs",
+              "RelativeToolTip": "FileManagerApp\\Migrations\\20250205212600_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:26:00.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FileManagerApp\\Pages\\UploadedFiles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Edit.cshtml",
+              "RelativeToolTip": "FileManagerApp\\Pages\\UploadedFiles\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T21:22:55.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Index.cshtml",
+              "RelativeDocumentMoniker": "FileManagerApp\\Pages\\UploadedFiles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Pages\\UploadedFiles\\Index.cshtml",
+              "RelativeToolTip": "FileManagerApp\\Pages\\UploadedFiles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T21:22:56.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileManagerAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Data\\FileManagerAppContext.cs",
+              "RelativeDocumentMoniker": "FileManagerApp\\Data\\FileManagerAppContext.cs",
+              "ToolTip": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\Data\\FileManagerAppContext.cs",
+              "RelativeToolTip": "FileManagerApp\\Data\\FileManagerAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:22:54.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileManagerApp",
+              "DocumentMoniker": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\FileManagerApp.csproj",
+              "RelativeDocumentMoniker": "FileManagerApp\\FileManagerApp.csproj",
+              "ToolTip": "C:\\Users\\Stati\\source\\repos\\FileManagerApp\\FileManagerApp\\FileManagerApp.csproj",
+              "RelativeToolTip": "FileManagerApp\\FileManagerApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T21:15:57.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
