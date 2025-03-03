@@ -11,7 +11,7 @@
     <hr />
     <div class="row">
     <div class="col-md-4">
-    <form method="post">
+    <form method="post" enctype="multipart/form-data">
     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="UploadedFile.FileName" class="control-label"></label>
@@ -37,6 +37,10 @@
                 <label asp-for="UploadedFile.FilePath" class="control-label"></label>
                 <input asp-for="UploadedFile.FilePath" class="form-control" />
                 <span asp-validation-for="UploadedFile.FilePath" class="text-danger"></span>
+            </div>
+            <div>
+                <label asp-for="Upload" class="control-label"></label>
+                <input type="file" asp-for="Upload" class="form-control" />
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />

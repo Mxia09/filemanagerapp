@@ -18,7 +18,7 @@ namespace FileManagerApp.Pages.UploadedFiles
         {
             _context = context;
         }
-
+        
         public IActionResult OnGet()
         {
             return Page();
@@ -26,7 +26,8 @@ namespace FileManagerApp.Pages.UploadedFiles
 
         [BindProperty]
         public UploadedFile UploadedFile { get; set; } = default!;
-
+        [BindProperty]
+        public IFormFile Upload { get; set; }
         // For more information, see https://aka.ms/RazorPagesCRUD.
         public async Task<IActionResult> OnPostAsync()
         {
@@ -34,7 +35,7 @@ namespace FileManagerApp.Pages.UploadedFiles
             {
                 return Page();
             }
-
+            Console.WriteLine(Upload.FileName);
             _context.UploadedFile.Add(UploadedFile);
             await _context.SaveChangesAsync();
 
